@@ -1,7 +1,7 @@
 /// <reference types="cypress" />
 
 
-describe('real world NEVZ test', () => {
+describe('real world DNEVA test', () => {
     
     before('log in', () => {
     cy.visit('http://localhost:3000/signin')
